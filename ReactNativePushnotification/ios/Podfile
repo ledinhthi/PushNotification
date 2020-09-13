@@ -8,6 +8,12 @@ target 'ReactNativePushnotification' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'RNFBMessaging', :path => '../node_modules/@react-native-firebase/messaging'
+
+  pod 'RNFBApp', :path => '../node_modules/@react-native-firebase/app'
+
+  pod 'RNFBIid', :path => '../node_modules/@react-native-firebase/iid'
+
   target 'ReactNativePushnotificationTests' do
     inherit! :complete
     # Pods for testing
