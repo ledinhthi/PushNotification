@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699203523782",
+    "firebase_url": "https://myreactfirebase-9f7fc.firebaseio.com",
+    "project_id": "myreactfirebase-9f7fc",
+    "storage_bucket": "myreactfirebase-9f7fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699203523782:android:fd27153f514888a4d7b3c7",
+        "android_client_info": {
+          "package_name": "com.notificationintergration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699203523782-o429uar6d55boorf8jpihqlpio05quuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notificationintergration",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "699203523782-9o4mrmp17vkrt0supogcc917btnd1407.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC43sEl5-tQ8yEFTS8hsGhXtUcZRcZ2J74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699203523782-9o4mrmp17vkrt0supogcc917btnd1407.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699203523782-m4ha2kkis1p53749709be88bj8rcak09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AnimationTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
